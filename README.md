@@ -4,6 +4,8 @@ Shortcodes for Gravity Forms adds a column in form list to display shortcode.
 ### Description ###
 Now you can view and copy the shortcode of Gravity Form you created from the form list in backend.
 
+![shortcode column](https://raw.githubusercontent.com/jainnidhi/gf-shortcode/master/screenshot-1.png)
+
 ### Installation ###
 
 1. Install Shortcodes for Gravity Forms either via the WordPress plugin directory or by uploading the files to your server at wp-content/plugins.
